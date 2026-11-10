@@ -10,7 +10,6 @@ Exploratory data analysis and regression modelling on Spotify track data. The go
 
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
-- [Setup](#setup)
 - [Part 1: Exploratory Data Analysis](#part-1-exploratory-data-analysis)
 - [Part 2: Regression](#part-2-regression)
 - [Key Takeaways](#key-takeaways)
