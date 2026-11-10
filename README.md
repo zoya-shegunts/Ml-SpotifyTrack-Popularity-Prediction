@@ -143,8 +143,4 @@ Degrees 3 and 5 overfit severely, so degree 2 is the best polynomial model.
 
 ## Authors
 
-Add your name here.
-
-## License
-
-Add a license of your choice (e.g. MIT).
+Zoya Shegunts
